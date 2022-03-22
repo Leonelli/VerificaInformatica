@@ -5,7 +5,9 @@ TODO:
 Usa il file mysql/query.sql per create il database
 
 
+cd back
 npm install (da terminale per installare le dipendenze)
+cd ..
 
 
 node back/index.js (per avviare node)
